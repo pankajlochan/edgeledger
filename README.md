@@ -1,2 +1,2 @@
 # Edgeledger
-Some website i made by watching some courses on Udemy.
+A static website made with pur HTML & CSS
